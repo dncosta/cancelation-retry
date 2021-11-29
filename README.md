@@ -10,6 +10,7 @@ How it works:
 The query itself is written in SQL and is stored by Metabase. Any changes needed must be done there
 
 2. The connection with metabase depends on:
+
 a. Being in the private network
 b. Having a Metabase user with access to te query mentioned
 
